@@ -44,7 +44,7 @@ This task is broken into 4 milestones. Complete them in order.
 After each milestone, review at least one pod member's work:
 1. Visit their fork, profile, or project repo
 2. Open an **Issue** with constructive feedback
-3. Use the title format: `EdMotion Pod Review: Milestone X - [Your Name]`
+3. Use the title format: `edMotion Pod Review: Milestone X - [Your Name]`
 
 For data projects specifically, review:
 - Is the analysis question clear?
@@ -68,21 +68,15 @@ You've completed this task when:
 
 ## 🎨 Portfolio Templates
 
-Two portfolio templates are included — choose the one that fits your level:
+Two portfolio templates are included — choose the one that fits your taste:
 
 | Template | Vibe | Best For |
 |----------|------|----------|
-| [**Starter**](templates/portfolio-site-starter/index.html) | Clean, light, simple | Beginners — easy to read and customize |
-| [**Premium**](templates/portfolio-site-premium/index.html) | Dark editorial, animated, polished | Anyone who wants to stand out immediately |
+| [**Starter**](templates/portfolio-site-starter/index.html) | Clean, light, simple | Simple — easy to read and customize |
+| [**Premium**](templates/portfolio-site-premium/index.html) | Dark editorial, animated, polished | Complex - Anyone who likes sophistication|
 
-Both are fully customizable with ✏️ comments marking every section you should change. You can always start with Starter and upgrade to Premium later.
-
----
-
-## 📚 Resources
-
-See [resources.md](resources.md) for datasets, tools, tutorials, and troubleshooting tips.
+Both are fully customizable with comments marking every section you should change. You can always start with Starter and upgrade to Premium later.
 
 ---
 
-*Built with 💪 by EdMotion for pod-based learning. Fork it. Analyze it. Ship it.*
+*Built with 💪 by edMotion for pod-based learning. Fork it. Analyze it. Ship it.*
