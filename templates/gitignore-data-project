@@ -1,0 +1,44 @@
+# ========================================
+# .gitignore for Data Analysis Projects
+# Copy this to your data project repos
+# ========================================
+
+# ----- Python -----
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ----- Jupyter Notebooks -----
+.ipynb_checkpoints/
+
+# ----- Virtual Environments -----
+venv/
+env/
+.env/
+
+# ----- Data files (large files) -----
+# Uncomment these if your data files are too large for GitHub (>50MB)
+# *.csv
+# *.xlsx
+# *.json
+# *.parquet
+# data/raw/*.csv
+
+# ----- OS files -----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ----- IDE files -----
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ----- Sensitive info -----
+*.env
+config.ini
+credentials.json
