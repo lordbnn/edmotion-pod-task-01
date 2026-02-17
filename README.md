@@ -73,7 +73,7 @@ Two portfolio templates are included — choose the one that fits your taste:
 | Template | Vibe | Best For |
 |----------|------|----------|
 | [**Starter**](templates/portfolio-site-starter/index.html) | Clean, light, simple | Simple — easy to read and customize |
-| [**Premium**](templates/portfolio-site-premium/index.html) | Dark editorial, animated, polished | Complex - Anyone who likes sophistication|
+| [**Premium**](templates/portfolio-site-premium/index.html) | Dark editorial, animated, polished | Polished - Anyone who likes elegance|
 
 Both are fully customizable with comments marking every section you should change. You can always start with Starter and upgrade to Premium later.
 
