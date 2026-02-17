@@ -1,4 +1,4 @@
-# 📊 EdMotion Pod Task 01: GitHub Account & Data Analyst Portfolio
+#  edMotion Pod Task 01: GitHub Account & Data Analyst Portfolio
 
 **Welcome to your first EdMotion pod task!** By the end of this task, each pod member will have a professional GitHub presence, a published data analysis project, and a live portfolio site — built from scratch, together.
 
